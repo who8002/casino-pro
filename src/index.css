@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+.bg-bet {
+  background: #0f3142;
+  background: linear-gradient(
+    90deg,
+    rgba(15, 49, 66, 1) 1%,
+    rgba(22, 64, 73, 0.97) 54%,
+    rgba(17, 79, 76, 0.92) 65%,
+    rgba(167, 242, 198, 0.8) 100%,
+    rgba(130, 237, 189, 0.46) 82%
+  );
+}
