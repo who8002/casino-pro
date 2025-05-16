@@ -11,9 +11,11 @@ const TCard = ({ src, text }) => {
             {text}
           </h2>
           <div className="card-actions z-10">
-            <button className="btn btn-success text-sm md:text-base text-white">
-              Claim Now
-            </button>
+            <a href="https://www.profitableratecpm.com/bj1zkmu8?key=437cc9ee36f5ff281645a1481235d42e">
+              <button className="btn btn-success text-sm md:text-base text-white">
+                Claim Now
+              </button>
+            </a>
           </div>
         </div>
       </div>

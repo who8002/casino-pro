@@ -25,9 +25,11 @@ const Rhero = () => {
                 </div>
               </div>
             </div>
-            <button className="btn btn-warning text-xs md:text-sm text-white">
-              Claim Now
-            </button>
+            <a href="https://www.profitableratecpm.com/bj1zkmu8?key=437cc9ee36f5ff281645a1481235d42e">
+              <button className="btn btn-warning text-xs md:text-sm text-white">
+                Claim Now
+              </button>
+            </a>
           </li>
 
           <li className="list-row flex items-center justify-between">
@@ -45,9 +47,11 @@ const Rhero = () => {
                 </div>
               </div>
             </div>
-            <button className="btn btn-warning text-xs md:text-sm text-white">
-              Claim Now
-            </button>
+            <a href="https://www.profitableratecpm.com/bj1zkmu8?key=437cc9ee36f5ff281645a1481235d42e">
+              <button className="btn btn-warning text-xs md:text-sm text-white">
+                Claim Now
+              </button>
+            </a>
           </li>
 
           <li className="list-row flex items-center justify-between">
@@ -64,9 +68,11 @@ const Rhero = () => {
                 </div>
               </div>
             </div>
-            <button className="btn btn-warning text-xs md:text-sm text-white">
-              Claim Now
-            </button>
+            <a href="https://www.profitableratecpm.com/bj1zkmu8?key=437cc9ee36f5ff281645a1481235d42e">
+              <button className="btn btn-warning text-xs md:text-sm text-white">
+                Claim Now
+              </button>
+            </a>
           </li>
         </ul>
       </div>
